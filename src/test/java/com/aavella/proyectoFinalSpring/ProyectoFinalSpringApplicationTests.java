@@ -1,4 +1,4 @@
-package com.ProyectoFinalSpring.ProyectoFinalSpring;
+package com.aavella.proyectoFinalSpring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
